@@ -1,0 +1,26 @@
+Registration and Login System
+http://www.codexworld.com/registration-login-system-php-mysql-session/
+
+Forgot Password
+http://www.codexworld.com/login-system-forgot-password-recovery-email-php-mysql/
+
+Contact Form
+http://www.codexworld.com/create-simple-contact-form-php-send-email/
+
+CRUD Operations
+http://www.codexworld.com/php-crud-operations-jquery-ajax-mysql/
+
+RECAPTCHA (if needed)
+http://www.codexworld.com/new-google-recaptcha-with-php/
+
+Login Using Twitter
+http://www.codexworld.com/login-with-twitter-using-php/
+
+Login using facebook
+http://www.codexworld.com/login-with-facebook-using-php/
+
+Login Using Google
+http://www.codexworld.com/login-with-google-api-using-php/
+
+Solid (Bootstrap Template)
+https://almsaeedstudio.com/blog/10-Free-Responsive-Bootstrap-Templates-For-2016
