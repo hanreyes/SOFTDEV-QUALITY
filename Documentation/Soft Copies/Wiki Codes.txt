@@ -1,0 +1,281 @@
+=<b>Project Title</b>=
+<center>http://i1156.photobucket.com/albums/p567/kvlee14/AfterLife%20-%20Logo_zpsoyltlogq.jpg</center>
+<center>http://i347.photobucket.com/albums/p452/hanreyes/Logo_zps5hjwbzp1.jpg</center>
+
+=<b>Project Members</b>=
+
+<center><b><h3>Professor</h3></b></center>
+<table border="1" align="center"><tr>
+<th width="200" bgcolor="#983232"><font color="white">Name </font></th>
+<th width ="200" bgcolor="#983232"><font color="white">Position </font></th>
+<th width = "200" bgcolor="#983232"><font color="white">Email </font></th> </tr>
+
+<tr align="center">
+<td> Mr. Edmundo Gonzales Casiño </td>
+<td> Lecturer </td>
+<td> totic@apc.edu.ph <br> sysadd1@gmail.com </td>
+</tr>
+</table>
+<br>
+<center><b><h3>Team Members</h3></b></center>
+<table border="1" align="center"><tr>
+<th width="200" bgcolor="#983232"><font color="white">Name </font></th>
+<th width ="200" bgcolor="#983232"><font color="white">Position </font></th>
+<th width = "200" bgcolor="#983232"><font color="white">Email </font></th> </tr>
+
+<tr align="center">
+<td> Hannah Mae Escobal Reyes </td>
+<td> Project Manager/Developer</td>
+<td> hereyes@student.apc.edu.ph <br> hannahreyes54@gmail.com</td>
+</tr>
+
+<tr align="center">
+<td> Kyle Vincent Valoria Lee </td>
+<td> Project Developer</td>
+<td> kvlee@student.apc.edu.ph <br> kvlee14@gmail.com</td>
+</tr>
+</table>
+<br>
+<center><b><h3>Adviser</h3></b></center>
+<table border="1" align="center"><tr>
+<th width="200" bgcolor="#983232"><font color="white">Name </font></th>
+<th width ="200" bgcolor="#983232"><font color="white">Position </font></th>
+<th width = "200" bgcolor="#983232"><font color="white">Email </font></th> </tr>
+
+<tr align="center">
+<td> Mr. Jacob Alguzar Catayoc</td>
+<td> Professor </td>
+<td> jacobc@apc.edu.ph </td>
+</tr>
+</table>
+
+=<b>Client</b>=
+<center> http://i1156.photobucket.com/albums/p567/kvlee14/NDRRMC%20Logo_zpshjl6qag2.jpg </center>
+
+=<b>Management of the Dead and the Missing Cluster</b>=
+===<center>Mission</center>===
+<p style = "text-align:justify; text-indent: 50px"> The Management of the Dead and the Missing aims to provide assistance in the proper identification
+and disposition of the remains in a sanitary manner with cautions to prevent negative psychological and social impact on the bereaved and the community. </p>
+===<center>Lead Agency</center>===
+<table border="1" align="center"><tr>
+<th width="200" bgcolor="#983232"><font color="white">Symbol</font></th>
+<th width ="200" bgcolor="#983232"><font color="white">Organization </font></th>
+<th width = "200" bgcolor="#983232"><font color="white">Roles & Responsibilities</font></th> </tr>
+
+<tr align="center">
+<td>http://i347.photobucket.com/albums/p452/hanreyes/DILG_zps2abxjmrj.png</td>
+<td> Department of the Interior and Local Government <br> (DILG)</td>
+<td> Support Management of the Dead and Missing (MDM) activities undertaken by Local Government Units (LGU)</td>
+</tr>
+</table>
+===<center>Member Agencies</center>===
+<table border="1" align="center"><tr>
+<th width="200" bgcolor="#983232"><font color="white">Symbol</font></th>
+<th width ="200" bgcolor="#983232"><font color="white">Organization </font></th>
+<th width = "200" bgcolor="#983232"><font color="white">Roles & Responsibilities</font></th> </tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/OCD_zpszadjqefb.png </td>
+<td> Office of Civil Defense <br> (OCD)</td>
+<td>Support of NDRRMCs <br> Coordination of MDM <br> Serves as the overall oversight committee of the MDM  </td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/DSWD_zpsihisghd2.png </td>
+<td> Department of Social Welfare and Development <br> (DSWD)</td>
+<td> Assist the affected LGU and will provide the technical and resource augmentation/assitance for the medical, psychological, and physiological needs of the families.</td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/DOH_zpsnnm1trp3.png</td>
+<td> Department of Health <br> (DOH)</td>
+<td> Support of MDM conducted by LGUs, PRC and other stakeholders in terms of First Aid, Medical Care and MDM Services after Retrieval </td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/MMDA_zpsexvcysqg.png </td>
+<td> Metropolitan Manila Development Authority <br> (MMDA)</td>
+<td> Conduct MDM Activities in collaboration with LGUs and Related Agencies </td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/NBI_zpsxyabplmg.png </td>
+<td> National Bureau of Investigation <br> (NBI)</td>
+<td> Lead the activities need needed for proper identification of all declared dead bodies. The NBI with the assistance of the PNP Scene of the Crime Operatives (SOCO) and other related experts will issue Certificate of Identification for all examined/processes and identified bodies </td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/PRC_zpskv982dn8.jpg </td>
+<td> Philippine Red Cross <br> (PRC)</td>
+<td> Conduct of Medical Care with Related Activties for Victims rescued <br> Support MDM Activities</td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/PNP_zpss3hspkee.png </td>
+<td>Philippine National Police <br> (PNP)</td>
+<td>Conduct MDM Activities in collaboration with LGUs and Related Agencies.</td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/BFP_zps1pmwynm9.jpg </td>
+<td>  Bureau of Fire Protection <br> (BFP)</td>
+<td>Conduct MDM Activities in collaboration with LGUs and Related Agencies.</td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/AFP_zpsrmlwk2gd.png </td>
+<td> Armed Forces of the Philippines <br> (AFP)</td>
+<td>Conduct MDM Activities in collaboration with LGUs and Related Agencies.</td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/DPWH_zps2i6a1pms.png </td>
+<td> Department of Public Works and Highways <br> (DPWH)</td>
+<td>Support MDM Activities undertaken by LGUs and NDRRMCs</td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/DFA_zpsj6ryv21s.png </td>
+<td> Department of Foreign Affairs <br> (DFA)</td>
+<td>Support MDM activities</td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/PCG_zpsoxqjk7yr.png</td>
+<td> Philippine Coast Guard <br> (PCG)</td>
+<td>Conduct MDM Activities in collaboration with LGUs and Related Agencies.</td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/MGB_zps3xlpnfcm.png </td>
+<td> Mines and Geosciences Bureau <br> (MGB)</td>
+<td>Inform and Issue Alerts, Warnings and Advisories for possibility of Disaster to prevent lives of MDM Teams from Secondary Disaster(s) </td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/ICRC_zpsv4okt0lj.gif </td>
+<td> International Committee of the Red Cross <br> (ICRC)</td>
+<td> Support MDM Activities </td>
+</tr>
+
+<tr align="center">
+<td> http://i347.photobucket.com/albums/p452/hanreyes/IFRC_zpsflkkfo3r.png </td>
+<td> International Federation of Red Cross and Red Crescent Societies <br> (IFRC)</td>
+<td> Support MDM Activities</td>
+</tr>
+
+<tr align="center">
+<td></td>
+<td>  Local Government Unit <br> (LGU)</td>
+<td>First Responder for MDM and Supporting Regional and National Govt. Activities Coordination with stakeholders regarding WASH, Health, Nutrition, and Psychosocial Services</td>
+</tr>
+
+</table>
+<br>
+<table border="1" align="center"><tr>
+<th width="200" bgcolor="#983232"><font color="white">Section</font></th>
+<th width="200" bgcolor="#983232"><font color="white">Subject</font></th>
+<th width ="200" bgcolor="#983232"><font color="white">Lead Agency <br> (National Level)</font></th>
+<th width = "200" bgcolor="#983232"><font color="white">Main Member Agencies</font></th> </tr>
+
+<tr align="center">
+<td> H1-1</td>
+<td> Pre-Disaster Phase before Alert/Warning </td>
+<td> DILG </td>
+<td> PNP, PCG, BFP, AFP, PRC </td>
+</tr>
+
+<tr align="center">
+<td> H1-2</td>
+<td> Pre-Disaster Phase after Alert/Warning </td>
+<td> DILG </td>
+<td> PNP, PCG, BFP, AFP, PRC</td>
+</tr>
+
+<tr align="center">
+<td> H2</td>
+<td> During Disaster </td>
+<td> DILG </td>
+<td> PNP, PCG, BFP, AFP, DOH, PRC </td>
+</tr>
+
+<tr align="center">
+<td> H3 </td>
+<td> Post-Disaster </td>
+<td> DILG </td>
+<td> PNP, PCG, BFP, AFP, DOH, PRC </td>
+</tr>
+</table>
+
+=<b>Abstract</b>=
+=<b>Introduction</b>=
+=<b>Background of the Problem</b>=
+=<b>Statement of the Problem</b>=
+=<b>Project Objectives</b>=
+===General Objectives===
+===Specific Objectives===
+=<b>Significance of the Project</b>=
+=<b>Scope</b>=
+===Scope of Initial Release===
+===Scope of Future Development===
+=<b>Limitations</b>=
+=<b>Definition of Terms</b>=
+===Acronyms===
+<ul>
+<li> AFP - Armed Forces of the Philippines </li>
+<li> BFP - Bureau of Fire Protection </li>
+<li> DFA - Department of Foreign Affairs </li>
+<li> DILG - Department of the Interior and Local Government</li>
+<li> DOH – Department of Health </li>
+<li> DPWH - Department of Public Works and Highways </li>
+<li> DSWD - Department of Social Welfare and Development </li>
+<li> ICRC - International Committee of the Red Cross </li>
+<li> IFRC – International Federation of Red Cross and Red Crescent Societies </li>
+<li> LGU - Local Government Unit </li>
+<li> MDM – Management of the Dead and the Missing </li>
+<li> MGB - Mines and Geosciences Bureau </li>
+<li> MMDA - Metropolitan Manila Development Authority </li>
+<li> NBI - National Bureau of Investigation</li>
+<li> NDRRMC – National Disaster Risk Reduction Management Council </li>
+<li> OCD - Office of Civil Defense </li>
+<li> PCG - Philippine Coast Guard </li>
+<li> PNP - Philippine National Police </li>
+<li> PRC - Philippine Red Cross </li>
+<li> SOCO - Scene of the Crime Operatives </li>
+</ul>
+===Words===
+=<b>Review Related of System </b>=
+===Vesuvius (People Locator)===
+===Google Person Finder===
+=<b>Theoretical Background</b>=
+=<b>Proposed Solution</b>=
+=<b>System Diagrams</b>=
+===<center>Event Table</center>===
+===<center>Context Flow Diagram</center>===
+===<center>Data Flow Diagram</center>===
+====<center>Level 0</center>====
+====<center>Level 1</center>====
+===<center>Use Case Diagram</center>===
+===<center>Use Case Full Description</center>===
+===<center>Entity Relationship Diagrams</center>===
+===<center>Data Dictionary</center>===
+=<b>Description of the Prototype</b>=
+===Features===
+=<b>Screenshot</b>=
+=<b>Functional System Specifications</b>=
+=<b>User Acceptance Checklist</b>=
+=<b>References</b>=
+<ul>
+<li> Cordner, S., Coninx, R., Kim, H., Alphen, D., & Tidball-Binz, M. (2016). <i> Management of Dead Bodies after Disasters: A Field Manual for First Responders </i> (2nd ed.). Washington D.C.: Pan American Health Organization. </li>
+<li> <i> National Disaster Response Plan. </i> (2014) (1st ed.). Retrieved from http://www.ndrrmc.gov.ph/attachments/article/1334/NDRP_Hydro_Meteorological_Hazards_as_of_2014.pdf</li>
+<li> <i> National Policy on the Management of the Dead and the Missing Persons During Emergencies and Disasters </i> (1st ed.). Retrieved from http://ndrrmc.gov.ph/attachments/article/1862/Management_of_the_Dead_and_the_Missing_MDM_(with_Line_Numbers).pdf</li>
+<li> <i> Pocket Emergency Tool. (2012) </i> (4th ed.). Retrieved from http://ro11.doh.gov.ph/pdf/PET.pdf </li>
+<li> <i> Philippine National Disaster Response Pillar. </i> (2017). Responseops.ph. Retrieved 5 March 2017, from http://responseops.ph/ </li>
+</ul>
+=<b>Appendices</b>=
+===Appendix 1: Relevant Source Code===
+===Appendix 2: Dead Body Information Form===
+===Appendix 3: Missing Person Information Form===
+=<b>Curriculum Vitae</b>=
+<center> http://i347.photobucket.com/albums/p452/hanreyes/combine_imagesk_zpshe5g7h0k.jpg </center>
+<center> http://i347.photobucket.com/albums/p452/hanreyes/imgonline-com-ua-twotoone-7VJxhQJ1LhDl_zpsvyge8nav.jpg </center>
