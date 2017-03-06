@@ -1,4 +1,4 @@
-=<b>Project Title</b>=
+﻿=<b>Project Title</b>=
 <center>http://i1156.photobucket.com/albums/p567/kvlee14/AfterLife%20-%20Logo_zpsoyltlogq.jpg</center>
 <center>http://i347.photobucket.com/albums/p452/hanreyes/Logo_zps5hjwbzp1.jpg</center>
 
@@ -242,11 +242,24 @@ and disposition of the remains in a sanitary manner with cautions to prevent neg
 <li> PNP - Philippine National Police </li>
 <li> PRC - Philippine Red Cross </li>
 <li> SOCO - Scene of the Crime Operatives </li>
+<li> WaSH - Water, Sanitation, Health </li>
 </ul>
 ===Words===
 =<b>Review Related of System </b>=
 ===Vesuvius (People Locator)===
+<p style = "text-align:justify; text-indent: 50px">
+Vesuvius is focused on the disaster preparedness and response needs of the medical community, contributing to family reunification and assisting with hospital triage. </p>
+<p style = "text-align:justify; text-indent: 50px"> The US National Library of Medicine (NLM) is using Vesuvius to support disaster preparedness and response in family reunification and hospital triage, enabling capture of photos, exchange of data across facilities for use in US-hospital-focused catastrophic situations. While their primary mission has been to support the Bethesda Hospitals Emergency Preparedness Partnership (BHEPP), NLM has also supported the public use of the Vesuvius People Locator system for the Haiti earthquake (2010), Christchurch Earthquake (2011), and Japan Earthquake and Tsunami (2011). A prerelease version of Vesuvius was also used by NLM as part of BHEPP’s October 15, 2009 participation in CMAX 2009 (Combined Multi-Agency eXercise). CMAX is an annual joint civilian-military exercise in the DC area, involving simulated disasters with first responders and medical providers. </p>
 ===Google Person Finder===
+<p style = "text-align:justify; text-indent: 50px"> Google Person Finder helps people reconnect with friends and loved ones in the aftermath of natural and humanitarian disasters. </p>
+<p style = "text-align:justify; text-indent: 50px"> 
+<ul>
+<li> A crisis strikes and people get separated. </li>
+<li> They let the world know they are looking for someone. </li>
+<li> Individuals and organizations provide information. </li>
+<li> People find information about their friends and family.</li>
+</ul>
+</p>
 =<b>Theoretical Background</b>=
 =<b>Proposed Solution</b>=
 =<b>System Diagrams</b>=
@@ -267,15 +280,17 @@ and disposition of the remains in a sanitary manner with cautions to prevent neg
 =<b>References</b>=
 <ul>
 <li> Cordner, S., Coninx, R., Kim, H., Alphen, D., & Tidball-Binz, M. (2016). <i> Management of Dead Bodies after Disasters: A Field Manual for First Responders </i> (2nd ed.). Washington D.C.: Pan American Health Organization. </li>
+<li> <i> Google Person Finder. </i> (2017). Google.org. Retrieved 6 March 2017, from https://google.org/personfinder/global/home.html </li>
 <li> <i> National Disaster Response Plan. </i> (2014) (1st ed.). Retrieved from http://www.ndrrmc.gov.ph/attachments/article/1334/NDRP_Hydro_Meteorological_Hazards_as_of_2014.pdf</li>
 <li> <i> National Policy on the Management of the Dead and the Missing Persons During Emergencies and Disasters </i> (1st ed.). Retrieved from http://ndrrmc.gov.ph/attachments/article/1862/Management_of_the_Dead_and_the_Missing_MDM_(with_Line_Numbers).pdf</li>
 <li> <i> Pocket Emergency Tool. (2012) </i> (4th ed.). Retrieved from http://ro11.doh.gov.ph/pdf/PET.pdf </li>
 <li> <i> Philippine National Disaster Response Pillar. </i> (2017). Responseops.ph. Retrieved 5 March 2017, from http://responseops.ph/ </li>
+<li> <i> Vesuvius. </i> (2017). Sahana Foundation. Retrieved 6 March 2017, from https://sahanafoundation.org/products/vesuvius/ </li>
 </ul>
 =<b>Appendices</b>=
 ===Appendix 1: Relevant Source Code===
 ===Appendix 2: Dead Body Information Form===
 ===Appendix 3: Missing Person Information Form===
-=<b>Curriculum Vitae</b>=
+===Appendix 4: Curriculum Vitae===
 <center> http://i347.photobucket.com/albums/p452/hanreyes/combine_imagesk_zpshe5g7h0k.jpg </center>
 <center> http://i347.photobucket.com/albums/p452/hanreyes/imgonline-com-ua-twotoone-7VJxhQJ1LhDl_zpsvyge8nav.jpg </center>
