@@ -24,3 +24,4 @@ Detailed Design
  change Management
 Quality Assurance
 Manual for Dummies
+Logistics
