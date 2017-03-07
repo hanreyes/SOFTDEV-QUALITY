@@ -1,0 +1,25 @@
+Define overall process this is to be done by
+Responsible parties
+Sequence Templates
+Features/Functions Every Module we have
+Target Users
+Process A	Description		Target User Pass/Fail
+Feature 1	
+
+Revisions
+Process	Remarks		Location	Correction Made by whom where when 
+Feature Causes/Failure
+	User/Program
+
+Introduction
+Background/present situation
+Objective Goal of th project
+Purpose
+Analysis Gov Victims Volunteer
+	User identification Roles
+Design
+Broad Conceptual Design
+Recommendation
+Detailed Design
+ change Management
+Quality Assurance
